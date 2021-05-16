@@ -1,0 +1,18 @@
+>>> #1.1) Running instructions in Interactive interpreter and a Python Script
+>>> a=15
+>>> print(a)#prints the value of a
+15
+>>> type(a)#prints the data type
+<class 'int'>
+>>> b=25.5
+>>> type(b)
+<class 'float'>
+>>> c=30.983
+>>> type(c)
+<class 'float'>
+>>> d="Hello,Iam || cse A"
+>>> type(d)
+<class 'str'>
+>>> a="Hello"
+>>> type(a)
+<class 'str'>
