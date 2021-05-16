@@ -1,0 +1,23 @@
+#1.2) Implement a python script to purposefully raise Indentation Error and Correct it.
+if a>b:
+print('a is greater')
+output:
+  SyntaxError: expected an indented block
+ #correction of a indentation error
+ if a>b:
+	print('a is greater')
+output:	
+       a is greater
+
+>>> a=10
+>>>   b=20
+>>>print(a,b)
+output:
+SyntaxError: unexpected indent
+#correction of intendation error
+>>> a=10
+>>> b=20
+>>> print(a,b)
+10 20
+
+       
